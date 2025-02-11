@@ -1,5 +1,4 @@
 
-```markdown
 # Windows Pen-Testing Framework Installer
 
 This is a Windows-based batch script designed to simplify the installation process of multiple penetration testing tools. The script downloads, extracts, and installs a variety of popular penetration testing tools automatically. 
@@ -38,7 +37,7 @@ The script supports the following tools:
 3. Run the batch file by navigating to the directory where the script is saved and typing the following:
 
 ```bash
-install-pen-testing-tools.bat
+wptf.bat
 ```
 
 4. Follow the prompts to select which tools you want to install. You can choose individual tools or select the "All" option to install everything.
